@@ -1,6 +1,6 @@
 # Goal for the Day
 
-![Goal for the Day](https://bchharaw.github.io/#/projects/goalfortheday)
+[Goal for the Day](https://bchharaw.github.io/#/projects/goalfortheday)
 
 When I was first learning JavaScript, HTML, and CSS, I created this simplistic website to track goals using cookies in the browser. I designed it for personal use to hold myself more accountable for the goals I set. It served as my default browser homepage during high school and greatly improved my productivity.
 
